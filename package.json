@@ -3,8 +3,8 @@
   "module": "index.js",
   "type": "module",
   "scripts": {
-    "start": "bun run index.ts",
+    "start": "bun run index.js",
     "test": "bun test",
-    "build": "bun build ./index.ts --outfile=./dist/index"
+    "build": "bun build ./index.js --outfile=./dist/index"
   }
 }
