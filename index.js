@@ -7,6 +7,11 @@ Bun.serve({
     if (url.pathname === "/greet") {
       return new Response("Hello, world!");
     }
+    
+    if (url.pathname === '/today') {
+      return new Response(`Today is ${new Date().toLocaleDateString()}`);
+    }
+
     return new Response("Not Found", { status: 404 });
   },
 });
