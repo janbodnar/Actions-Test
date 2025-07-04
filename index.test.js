@@ -19,5 +19,5 @@ test("GET /today", async () => {
   const res = await server.fetch(new Request("http://localhost:3000/today"));
   expect(res.status).toBe(200);
   const text = await res.text();
-  expect(text).contains("Today is");
+  expect(text).toContain("Today is");
 });
