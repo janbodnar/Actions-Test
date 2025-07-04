@@ -1,0 +1,11 @@
+name: log-message
+
+on:
+  workflow_dispatch:
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log a message
+        run: echo "Hello from GitHub Actions!"
