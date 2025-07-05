@@ -6,7 +6,7 @@ This is test repository for Github Actions.
 
 This is subtitle 
 
-## Another subtitle
+## This is yet another subtitle
 
 another subtitle
 
