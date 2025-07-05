@@ -13,3 +13,7 @@ another subtitle
 ## Local Change
 
 This line was added locally.
+
+## Remote change
+
+Added remotely. 
