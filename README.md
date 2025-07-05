@@ -1,8 +1,11 @@
 # Github Actions
 
-This is a test repository for Github Actions. 
+This is test repository for Github Actions. 
 
-## Some subtitle
+## Subtitle 
 
-This is some subtitle 
+This is subtitle 
 
+## Another subtitle
+
+another subtitle
