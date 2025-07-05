@@ -2,7 +2,7 @@
 
 This is test repository for Github Actions. 
 
-## Subtitle 
+## Some subtitle
 
-This is subtitle 
+This is some subtitle 
 
